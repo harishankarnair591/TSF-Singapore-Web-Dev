@@ -9,6 +9,6 @@ Theme: Donation for the victims of Maharashtra Floods 2021.
 
 IDE Used: VS Code. 
 
-Languages Used: HTML. CSS. JavaScript.
+Languages Used: HTML, CSS, JavaScript.
 
 Payment Gateway used: Razorpay
